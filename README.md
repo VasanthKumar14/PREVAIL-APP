@@ -8,8 +8,14 @@ volunteer (GUARDIAN) and also individuals in need of help. Users can post their 
 Download the latest APK from [here](https://github.com/VasanthKumar14/PREVAIL-APP/releases/download/v1.0.0%2B1/app-release.apk) to install the application.
 
 <td align="center"><a href="https://github.com/VasanthKumar14/PREVAIL-APP/releases/download/v1.0.0%2B1/app-release.apk"><img src="./images/get it on github.png" alt="Get it on Github" height="68"></a></td> <br/>
+<h3>
+Free Demo</h3> <br/>
+ <a align="center" href="https://youtu.be/kp6mt6hJa24"><img height="35" src="./images/youtube.png" alt="Get it on Github" height="68"></a><br/>
 
-|            Home Screen            |            Stats             |           Get Help           |          Join to Help          |
+ <h3>
+Screenshots</h3>
+
+|           Landing Page            |        Covid19 Trends        |           Get Help           |          Join to Help          |
 | :-------------------------------: | :--------------------------: | :--------------------------: | :----------------------------: |
 | ![image](./images/homescreen.jpg) | ![image](./images/stats.jpg) | ![image](images/getHelp.jpg) | ![image](./images/joinNow.jpg) |
 
