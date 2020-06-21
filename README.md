@@ -9,7 +9,7 @@ Download the latest APK from [here](https://github.com/VasanthKumar14/PREVAIL-AP
 
 <td align="center"><a href="https://github.com/VasanthKumar14/PREVAIL-APP/releases/download/v1.0.0%2B1/app-release.apk"><img src="./images/get it on github.png" alt="Get it on Github" height="68"></a></td> <br/>
 
-|            Home Screen            |          Dashboard           |           Get Help           |          Join to Help          |
+|            Home Screen            |            Stats             |           Get Help           |          Join to Help          |
 | :-------------------------------: | :--------------------------: | :--------------------------: | :----------------------------: |
 | ![image](./images/homescreen.jpg) | ![image](./images/stats.jpg) | ![image](images/getHelp.jpg) | ![image](./images/joinNow.jpg) |
 
